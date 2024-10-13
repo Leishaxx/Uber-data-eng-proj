@@ -25,4 +25,4 @@ Analyzed Uber's data to gather insights using tools such as Google Cloud storage
 
 ## Authors <!--- do not change this line -->
 
-- *Leisha Khapre ((mailto:leishakhapre15@gmail.com))*
+- *Leisha Khapre (leishakhapre15@gmail.com)*
