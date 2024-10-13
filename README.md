@@ -13,14 +13,6 @@ Analyzed Uber's data to gather insights using tools such as Google Cloud storage
 *To accomplish this, I started with finding my dataset. I then made  adata model and wrote transformation code to supplement the model on Jupyter Notebook. I then utilized google cloud to store my data, create a VM instance so I could access Mage. I sed the load, transform and extract method to transport my cleaned dataset to BigQuery. I then used LookeerStudio to create visualizations to gather more insights about the dataset and people's habits while using Uber.*
 
 
-## Data Sources <!--- do not change this line -->
-
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Dataset used: *
-
 ## Technologies Used <!--- do not change this line -->
 
 - *Python*
@@ -33,4 +25,4 @@ Include any relevant data sources that were used in your project.
 
 ## Authors <!--- do not change this line -->
 
-- *Leisha Khapre ((mailto:leishakhapre14@gmail.com))*
+- *Leisha Khapre ((mailto:leishakhapre15@gmail.com))*
