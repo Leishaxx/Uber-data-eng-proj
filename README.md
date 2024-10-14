@@ -6,7 +6,8 @@ Analyzed Uber's data to gather insights using tools such as Google Cloud storage
 ## Key Results <!--- do not change this line -->
 
 
-<img width="801" alt="image" src="https://github.com/user-attachments/assets/b8cfe1f5-d35c-470d-b851-a2ee7e8cd5e5">
+<img width="810" alt="image" src="https://github.com/user-attachments/assets/73fab5f2-fc9e-4343-8670-60cf2a146bd2">
+
 
 
 
